@@ -1,6 +1,6 @@
 Fun facts and nuggets of wisdom:
 1. I invented air.
-2. I first started programming with a TI-82 and TI-BASIC when I was in high school... unless you want to call the site I build on Geocities when I was kid "programming".
+2. I first started programming with a TI-82 and TI-BASIC when I was in high school... unless you want to call the pure HTML site I build on Geocities in 1997  "programming".
 3. I first started using Python in production in 2002.
 4. I am not looking for a new opportunity, thanks for thinking of me though.
 5. I am most passionate about internal developer tools so people who don't want to think about pipelines or networks or other infrastructure don't have to.
