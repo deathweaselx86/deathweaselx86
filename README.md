@@ -11,5 +11,3 @@ Fun facts
 10. Elasticsearch is persistent, but shouldn't be your source of truth.
 11. `bash` is actually pretty nice if you upgrade your default install to Bash 4 or Bash 5. It has _associative arrays_ like modern languages.
 12. The sunken cost fallacy definitely applies to software engineering. Don't be afraid to pivot if it's not working for you.
-13. Sadly, I don't commit code here very often anymore. My job uses a self-hosted Gitlab instance and I rarely have time for personal code these days. 
-
